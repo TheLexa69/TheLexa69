@@ -6,12 +6,12 @@ Web Developer
 
 I've been learning to code for 3 years. I started with HTML, CSS and Java, but have really found a passion for backend development with Laravel's Framework PHP
 
-* 🌍  I'm based in Spain
+* 🌍  I'm living in Vigo, Spain
 * ✉️  You can contact me at [luisguillermoandregarrido@gmail.com](mailto:luisguillermoandregarrido@gmail.com)
-* 🚀  I'm currently working on [LuaChea](http://www.luachea.es)
-* 🧠  I'm learning Laravel, TypeScript and Tailwind
+* 🚀  I'm currently working on [LuaChea](http://www.luachea.es), this page is for my family's restaurant.
+* 🧠  I'm learning Laravel, TypeScript, and Tailwind, and I'm also studying multi-platform application development.
 * 🤝  I'm open to collaborating on other Laravel projects!
-* ⚡  I have a cat named Miss
+* ⚡  I have four little shih tzu babes: Dalha, Kylie, Norbu, and Kento.
 
 <a href="https://www.github.com/TheLexa69" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TheLexa69?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
